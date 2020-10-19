@@ -11,7 +11,11 @@ import SwiftUI
 struct ios_hw2_e_bookApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            //CarList()
+            AppView()
         }
+        
     }
 }
+
